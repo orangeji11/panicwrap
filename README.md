@@ -77,7 +77,7 @@ func panicHandler(output string) {
 }
 ```
 
-## How Does it Work?
+## How Does it Work??
 
 panicwrap works by re-executing the running program (retaining arguments,
 environmental variables, etc.) and monitoring the stderr of the program.
